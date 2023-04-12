@@ -3,6 +3,6 @@
 3    package="cn.com.newland.nle_sdk" >
 4
 5    <uses-sdk android:minSdkVersion="15" />
-5-->C:\Users\TF\Downloads\MyAppone\nlecloud-sdk\src\main\AndroidManifest.xml
+5-->E:\Work\Android Project\android-nlecloud\nlecloud-sdk\src\main\AndroidManifest.xml
 6
 7</manifest>

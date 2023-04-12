@@ -26,10 +26,16 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        StatusBar statusBar = new StatusBar(MainActivity.this);
+        statusBar.setColor(R.color.transparent);
+
         if (getSupportActionBar() != null){
             getSupportActionBar().hide();
         }
+
         setContentView(R.layout.activity);
+
+
 
         one = findViewById(R.id.one);
         two = findViewById(R.id.two);

@@ -763,6 +763,9 @@ int color cardview_light_background 0x7f050028
 int color cardview_shadow_end_color 0x7f050029
 int color cardview_shadow_start_color 0x7f05002a
 int color checkbox_themeable_attribute_color 0x7f05002b
+int color colorAccent 0x7f0500c5
+int color colorPrimary 0x7f0500c6
+int color colorPrimaryDark 0x7f0500c7
 int color design_bottom_navigation_shadow_color 0x7f05002c
 int color design_box_stroke_color 0x7f05002d
 int color design_dark_default_color_background 0x7f05002e
@@ -915,6 +918,8 @@ int color test_mtrl_calendar_day 0x7f0500c0
 int color test_mtrl_calendar_day_selected 0x7f0500c1
 int color tooltip_background_dark 0x7f0500c2
 int color tooltip_background_light 0x7f0500c3
+int color translucent 0x7f0500c8
+int color transparent 0x7f0500c9
 int color white 0x7f0500c4
 int dimen abc_action_bar_content_inset_material 0x7f060000
 int dimen abc_action_bar_content_inset_with_nav 0x7f060001
@@ -1328,6 +1333,7 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f070059
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f07005a
 int drawable abc_textfield_search_material 0x7f07005b
 int drawable abc_vector_test 0x7f07005c
+int drawable an 0x7f070097
 int drawable avd_hide_password 0x7f07005d
 int drawable avd_show_password 0x7f07005e
 int drawable btn_checkbox_checked_mtrl 0x7f07005f

@@ -8,12 +8,12 @@ com.example.myappone.app-jetified-viewpager2-1.0.0-6 C:\Users\TF\.gradle\caches\
 com.example.myappone.app-material-1.1.0-7 C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\res
 com.example.myappone.app-cardview-1.0.0-8 C:\Users\TF\.gradle\caches\transforms-3\ee0027bc9d5788a8013686284e27f76a\transformed\cardview-1.0.0\res
 com.example.myappone.app-core-1.1.0-9 C:\Users\TF\.gradle\caches\transforms-3\f550a298487282cf8656bb37218ccfab\transformed\core-1.1.0\res
-com.example.myappone.app-pngs-10 C:\Users\TF\Downloads\MyAppone\app\build\generated\res\pngs\debug
-com.example.myappone.app-resValues-11 C:\Users\TF\Downloads\MyAppone\app\build\generated\res\resValues\debug
-com.example.myappone.app-rs-12 C:\Users\TF\Downloads\MyAppone\app\build\generated\res\rs\debug
-com.example.myappone.app-mergeDebugResources-13 C:\Users\TF\Downloads\MyAppone\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.example.myappone.app-mergeDebugResources-14 C:\Users\TF\Downloads\MyAppone\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.example.myappone.app-merged_res-15 C:\Users\TF\Downloads\MyAppone\app\build\intermediates\merged_res\debug
-com.example.myappone.app-debug-16 C:\Users\TF\Downloads\MyAppone\app\src\debug\res
-com.example.myappone.app-main-17 C:\Users\TF\Downloads\MyAppone\app\src\main\res
-com.example.myappone.app-packaged_res-18 C:\Users\TF\Downloads\MyAppone\nlecloud-sdk\build\intermediates\packaged_res\debug
+com.example.myappone.app-pngs-10 E:\Work\Android Project\android-nlecloud\app\build\generated\res\pngs\debug
+com.example.myappone.app-resValues-11 E:\Work\Android Project\android-nlecloud\app\build\generated\res\resValues\debug
+com.example.myappone.app-rs-12 E:\Work\Android Project\android-nlecloud\app\build\generated\res\rs\debug
+com.example.myappone.app-mergeDebugResources-13 E:\Work\Android Project\android-nlecloud\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.myappone.app-mergeDebugResources-14 E:\Work\Android Project\android-nlecloud\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.myappone.app-merged_res-15 E:\Work\Android Project\android-nlecloud\app\build\intermediates\merged_res\debug
+com.example.myappone.app-debug-16 E:\Work\Android Project\android-nlecloud\app\src\debug\res
+com.example.myappone.app-main-17 E:\Work\Android Project\android-nlecloud\app\src\main\res
+com.example.myappone.app-packaged_res-18 E:\Work\Android Project\android-nlecloud\nlecloud-sdk\build\intermediates\packaged_res\debug

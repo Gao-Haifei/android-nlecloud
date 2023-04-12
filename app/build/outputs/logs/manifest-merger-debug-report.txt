@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\41d0d36c254d2aa2fa05102ad3d79faa\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TF\.gradle\caches\transforms-3\18628c4ebf8fdb8f0f7a4ee7f147ef2c\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [:nlecloud-sdk] C:\Users\TF\Downloads\MyAppone\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:nlecloud-sdk] E:\Work\Android Project\android-nlecloud\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TF\.gradle\caches\transforms-3\e315e41159a2583276d640e210176c44\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\f435fd5de94f958b4c53d47201968a19\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\15ea78a74eb72043f7066615185cc29c\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
@@ -32,29 +32,29 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TF\.gradle\cache
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\bfacf2ee5ac7cac2e44ce4e891127432\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\4d1f2431f528cf60c503cb0d54814881\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:1-26:12
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:6:5-24:19
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:6:5-24:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TF\.gradle\caches\transforms-3\18628c4ebf8fdb8f0f7a4ee7f147ef2c\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -66,53 +66,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\TF
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\f550a298487282cf8656bb37218ccfab\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:11:9-41
 	android:icon
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:8:9-36
 	android:allowBackup
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:13:9-46
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:13:9-46
 	android:networkSecurityConfig
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:10:9-49
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:10:9-49
 activity#com.example.myappone.Sensor_Activity
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:14:9-53
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:14:9-53
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:14:19-50
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:14:19-50
 activity#com.example.myappone.project_Activity
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:16:9-53
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:9-53
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:16:19-51
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:19-51
 activity#com.example.myappone.MainActivity
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:17:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\e7ef76db55f55e7d6c2539c0e9d88ebc\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\41d0d36c254d2aa2fa05102ad3d79faa\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\41d0d36c254d2aa2fa05102ad3d79faa\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TF\.gradle\caches\transforms-3\18628c4ebf8fdb8f0f7a4ee7f147ef2c\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TF\.gradle\caches\transforms-3\18628c4ebf8fdb8f0f7a4ee7f147ef2c\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [:nlecloud-sdk] C:\Users\TF\Downloads\MyAppone\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:nlecloud-sdk] C:\Users\TF\Downloads\MyAppone\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:nlecloud-sdk] E:\Work\Android Project\android-nlecloud\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:nlecloud-sdk] E:\Work\Android Project\android-nlecloud\nlecloud-sdk\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TF\.gradle\caches\transforms-3\e315e41159a2583276d640e210176c44\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TF\.gradle\caches\transforms-3\e315e41159a2583276d640e210176c44\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\f435fd5de94f958b4c53d47201968a19\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -161,13 +161,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TF\.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\4d1f2431f528cf60c503cb0d54814881\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TF\.gradle\caches\transforms-3\c057147ccced6033784e36101cd17c89\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\TF\Downloads\MyAppone\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		ADDED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml

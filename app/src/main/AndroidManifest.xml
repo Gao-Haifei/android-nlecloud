@@ -5,10 +5,10 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/an"
         android:label="@string/app_name"
         android:networkSecurityConfig="@xml/net"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/an"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAppone">
         <activity android:name=".Sensor_Activity" />

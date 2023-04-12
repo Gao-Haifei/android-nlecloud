@@ -31,6 +31,8 @@ public class Sensor_Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        StatusBar statusBar = new StatusBar(Sensor_Activity.this);
+        statusBar.setColor(R.color.transparent);
         if (getSupportActionBar() != null){
             getSupportActionBar().hide();
         }

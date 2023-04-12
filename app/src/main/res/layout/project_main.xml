@@ -24,7 +24,7 @@
             android:paddingLeft="10dp"
             android:digits="1234567890"
             android:textColor="@color/white"
-            android:text="343225" />
+            android:text="600599" />
 
         <Button
             android:id="@+id/project_cx"

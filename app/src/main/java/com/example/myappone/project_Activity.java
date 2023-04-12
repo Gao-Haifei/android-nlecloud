@@ -33,6 +33,8 @@ public class project_Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        StatusBar statusBar = new StatusBar(project_Activity.this);
+        statusBar.setColor(R.color.transparent);
         if (getSupportActionBar() != null){
             getSupportActionBar().hide();
         }
@@ -61,12 +63,6 @@ public class project_Activity extends AppCompatActivity {
                                 //获取列表信息
                                 List<Map<String, Object>> data = new ArrayList<Map<String, Object>>();//创建一个哈希表
                                 Map<String, Object> map = new HashMap<String, Object>();//创建一个哈希表
-                                map.put("name","全部传感器数据");
-                                map.put("api","All_Sensor");
-                                map.put("time","- - - - - - - -");
-                                map.put("deviceid","999999");
-                                data.add(map);
-                                map = new HashMap<String, Object>();
                                 //将数据放入哈希表
 
                                 //遍历输出表中数据
