@@ -2,11 +2,17 @@ package com.example.myappone;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.Manifest;
+import android.app.NotificationManager;
 import android.content.Intent;
+import android.content.res.Configuration;
+import android.graphics.Point;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -19,22 +25,26 @@ import cn.com.newland.nle_sdk.util.NetWorkBusiness;
 
 public class MainActivity extends AppCompatActivity {
 
-    String NAME,PASS;
-    EditText one,two;
+
+
+
+    String NAME, PASS;
+    EditText one, two;
     Button dl;
     NetWorkBusiness business;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         StatusBar statusBar = new StatusBar(MainActivity.this);
         statusBar.setColor(R.color.transparent);
 
-        if (getSupportActionBar() != null){
+        if (getSupportActionBar() != null) {
             getSupportActionBar().hide();
         }
 
         setContentView(R.layout.activity);
-
 
 
         one = findViewById(R.id.one);
@@ -50,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
                 //获取输入的用户名
                 PASS = two.getText().toString();
                 //获取输入的密码
-                NetWorkBusiness business = new NetWorkBusiness("",start.URL);
+                NetWorkBusiness business = new NetWorkBusiness("", start.URL);
                 //初始化
                 business.signIn(new SignIn(NAME, PASS),
                         //进入云平台

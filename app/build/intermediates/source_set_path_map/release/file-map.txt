@@ -1,0 +1,19 @@
+com.example.myappone.app-core-1.1.0-0 C:\Users\TF\.gradle\caches\transforms-3\017dd1ffbdc82a1ce8dab518f54fcaaa\transformed\core-1.1.0\res
+com.example.myappone.app-recyclerview-1.1.0-1 C:\Users\TF\.gradle\caches\transforms-3\0456443e6bc6c68b5c4770b5e830c459\transformed\recyclerview-1.1.0\res
+com.example.myappone.app-jetified-viewpager2-1.0.0-2 C:\Users\TF\.gradle\caches\transforms-3\0cebed27099a464990b6c039c4a1e8f8\transformed\jetified-viewpager2-1.0.0\res
+com.example.myappone.app-transition-1.2.0-3 C:\Users\TF\.gradle\caches\transforms-3\361c14ca22d6700fb6d51ab71c61ac49\transformed\transition-1.2.0\res
+com.example.myappone.app-constraintlayout-1.1.3-4 C:\Users\TF\.gradle\caches\transforms-3\40e44890685d2dcbc7d458fdf902d6dd\transformed\constraintlayout-1.1.3\res
+com.example.myappone.app-material-1.1.0-5 C:\Users\TF\.gradle\caches\transforms-3\51b1583ae2b7a11a86d0f0c64c5b3c51\transformed\material-1.1.0\res
+com.example.myappone.app-coordinatorlayout-1.1.0-6 C:\Users\TF\.gradle\caches\transforms-3\5ae89f0f856def303c82eb39afd66362\transformed\coordinatorlayout-1.1.0\res
+com.example.myappone.app-appcompat-1.1.0-7 C:\Users\TF\.gradle\caches\transforms-3\dd25341caada3c8497aa2642b501ec71\transformed\appcompat-1.1.0\res
+com.example.myappone.app-cardview-1.0.0-8 C:\Users\TF\.gradle\caches\transforms-3\e70e18ee7ba81f9b02b666c18305da00\transformed\cardview-1.0.0\res
+com.example.myappone.app-jetified-appcompat-resources-1.1.0-9 C:\Users\TF\.gradle\caches\transforms-3\f8f6c0feccc2b086157407f4d9387ecc\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.myappone.app-pngs-10 E:\Work\Android Project\android-nlecloud\app\build\generated\res\pngs\release
+com.example.myappone.app-resValues-11 E:\Work\Android Project\android-nlecloud\app\build\generated\res\resValues\release
+com.example.myappone.app-rs-12 E:\Work\Android Project\android-nlecloud\app\build\generated\res\rs\release
+com.example.myappone.app-mergeReleaseResources-13 E:\Work\Android Project\android-nlecloud\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.myappone.app-mergeReleaseResources-14 E:\Work\Android Project\android-nlecloud\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.myappone.app-merged_res-15 E:\Work\Android Project\android-nlecloud\app\build\intermediates\merged_res\release
+com.example.myappone.app-main-16 E:\Work\Android Project\android-nlecloud\app\src\main\res
+com.example.myappone.app-release-17 E:\Work\Android Project\android-nlecloud\app\src\release\res
+com.example.myappone.app-packaged_res-18 E:\Work\Android Project\android-nlecloud\nlecloud-sdk\build\intermediates\packaged_res\release
