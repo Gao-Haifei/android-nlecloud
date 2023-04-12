@@ -4,7 +4,7 @@
             "outputFile": "com.example.myappone.app-mergeDebugResources-13:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\TF\\.gradle\\caches\\transforms-3\\41d0d36c254d2aa2fa05102ad3d79faa\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\TF\\.gradle\\caches\\transforms-3\\dd25341caada3c8497aa2642b501ec71\\transformed\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

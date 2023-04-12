@@ -19,7 +19,7 @@
 14        android:allowBackup="true"
 14-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\f550a298487282cf8656bb37218ccfab\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\017dd1ffbdc82a1ce8dab518f54fcaaa\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@drawable/an"
 17-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:8:9-36
