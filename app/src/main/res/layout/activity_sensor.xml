@@ -3,7 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/dddd">
+    android:background="@drawable/d">
 
     <View
         android:layout_width="match_parent"
@@ -416,7 +416,7 @@
         <!-- LED -->
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="190dp"
+            android:layout_height="300dp"
             android:gravity="center_vertical"
             android:orientation="vertical"
             android:id="@+id/sensor_data_led"
@@ -441,16 +441,20 @@
                 android:textStyle="bold"
                 android:textColor="@color/teal_200"/>
             <EditText
+                android:background="#60FFFFFF"
                 android:id="@+id/sensor_data_led_txt"
                 android:layout_width="match_parent"
-                android:layout_height="20dp"
+                android:layout_height="10dp"
                 android:layout_weight="1"
                 android:layout_marginTop="10dp"
+                android:textColor="@color/white"
                 android:layout_marginHorizontal="20dp"
                 android:gravity="center"
                 android:hint="需要显示的数据"
+                android:textColorHint="@color/white"
                 android:singleLine="false"
                 android:visibility="visible" />
+
 
             <Button
                 android:id="@+id/sensor_data_led_send"

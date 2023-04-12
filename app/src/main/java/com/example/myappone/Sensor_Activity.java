@@ -229,7 +229,8 @@ public class Sensor_Activity extends AppCompatActivity {
 
                             else if (sensorInfo.getOperType() == 5){
                                 sensor_data_led_name.setText(sensorInfo.getName());
-                                sensor_data_led_type.setText(sensorInfo.getValue());
+                                if (sensorInfo.getValue()==null || sensorInfo.getValue().equals("")) sensor_data_led_type.setText("Value:Null");
+                                else sensor_data_led_type.setText(sensorInfo.getValue());
                                 sensor_data_led_send.setVisibility(View.VISIBLE);
                                 sensor_data_led.setVisibility(View.VISIBLE);
 
