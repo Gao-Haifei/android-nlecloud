@@ -1,106 +1,194 @@
 [
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_lase4.jpg.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/lase4.jpg"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_sb.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\sb.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/layout_activity_project_item.xml.flat",
-        "source": "com.example.myappone.app-main-17:/layout/activity_project_item.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_activity.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\activity.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_d.jpg.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/d.jpg"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_data_view2.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\data_view2.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_project_main.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\project_main.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_activity_sensor.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\activity_sensor.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/layout_activity.xml.flat",
-        "source": "com.example.myappone.app-main-17:/layout/activity.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.example.myappone.app-merged_res-15:/layout_activity_devices.xml.flat",
+        "source": "com.example.myappone.app-main-17:/layout/activity_devices.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/layout_activity_sensor.xml.flat",
-        "source": "com.example.myappone.app-main-17:/layout/activity_sensor.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_bzx.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\bzx.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_activity_devices.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\activity_devices.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/layout_activity_item.xml.flat",
-        "source": "com.example.myappone.app-main-17:/layout/activity_item.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_close.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\close.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_one.jpg.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/one.jpg"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_dddd.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\dddd.jpg"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_view.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\view.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/xml_net.xml.flat",
-        "source": "com.example.myappone.app-main-17:/xml/net.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_ly.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\ly.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_circle.xml.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/circle.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.myappone.app-main-17:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_an.jpg.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/an.jpg"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_activity_project_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\activity_project_item.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_data.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_data_view.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "com.example.myappone.app-merged_res-15:/layout_project_main.xml.flat",
         "source": "com.example.myappone.app-main-17:/layout/project_main.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_project_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\project_item.xml"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.myappone.app-main-17:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_wiiii.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\wiiii.png"
     },
     {
-        "merged": "com.example.myappone.app-merged_res-15:/drawable_dddd.jpg.flat",
-        "source": "com.example.myappone.app-main-17:/drawable/dddd.jpg"
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_fw.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\fw.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_activity_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_ytw.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\ytw.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_lase4.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\lase4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\layout_devices_item.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\layout\\devices_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_zx.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\zx.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_an.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\an.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\xml_net.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\xml\\net.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_s.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_b.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_cl.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\cl.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_lssj.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\lssj.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_one.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\one.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_open.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\open.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-merged_res-15:\\drawable_d.jpg.flat",
+        "source": "C:\\Users\\TF\\.gradle\\daemon\\7.5\\com.example.myappone.app-main-17:\\drawable\\d.jpg"
     }
 ]

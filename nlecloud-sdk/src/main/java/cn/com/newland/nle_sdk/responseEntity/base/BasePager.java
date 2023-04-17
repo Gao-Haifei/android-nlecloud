@@ -30,7 +30,7 @@ public class BasePager<T> {
         return RecordCount;
     }
 
-    List<T> getPageSet() {
+    public List<T> getPageSet() {
         return PageSet;
     }
 }

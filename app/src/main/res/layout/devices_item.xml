@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:layout_marginVertical="20dp"
+        android:background="@drawable/view"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:id="@+id/device_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设备名称"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/device_lianjie"
+                android:layout_marginTop="5dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/zx"
+                android:layout_marginLeft="100dp"/>
+
+
+            <ImageButton
+                android:id="@+id/device_bianji"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="50dp"
+                android:background="@drawable/b" />
+
+            <ImageButton
+                android:id="@+id/device_shanchu"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/s" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingVertical="5dp"
+            android:paddingLeft="20dp">
+
+
+            <TextView
+                android:id="@+id/device_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设备ID： 636275"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingVertical="5dp"
+            android:paddingLeft="20dp">
+
+
+            <TextView
+                android:id="@+id/device_apitag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="设备标识： "
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingVertical="5dp"
+            android:paddingLeft="20dp">
+
+
+            <TextView
+                android:id="@+id/device_key"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="传输密钥：7f3953727908416ba2d9a23a6f2fea42"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingVertical="5dp"
+            android:paddingLeft="20dp">
+
+
+            <TextView
+                android:id="@+id/device_tcp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="通讯协议：TCP"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingVertical="5dp">
+
+
+            <TextView
+                android:id="@+id/device_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="查看设备传感数据"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -11,50 +11,53 @@
 9-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:4:5-67
-11-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:4:22-64
+11-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:5:5-23:19
+13-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:7:5-25:19
 14        android:allowBackup="true"
-14-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:6:9-35
+14-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 15-->[androidx.core:core:1.1.0] C:\Users\TF\.gradle\caches\transforms-3\017dd1ffbdc82a1ce8dab518f54fcaaa\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
 18        android:icon="@drawable/an"
-18-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:7:9-36
+18-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:9:9-36
 19        android:label="@string/app_name"
-19-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:8:9-41
+19-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:10:9-41
 20        android:networkSecurityConfig="@xml/net"
-20-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:9:9-49
+20-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:11:9-49
 21        android:roundIcon="@drawable/an"
-21-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:10:9-41
+21-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:12:9-41
 22        android:supportsRtl="true"
-22-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:11:9-35
+22-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:13:9-35
 23        android:testOnly="true"
 24        android:theme="@style/Theme.MyAppone" >
-24-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:12:9-46
-25        <activity android:name="com.example.myappone.Sensor_Activity" />
-25-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:13:9-53
-25-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:13:19-50
-26        <activity android:name="com.example.myappone.project_Activity" />
-26-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:15:9-53
-26-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:15:19-51
-27        <activity android:name="com.example.myappone.MainActivity" >
-27-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:9-22:20
-27-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:19-47
-28            <intent-filter>
-28-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:17:13-21:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:18:17-69
-29-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:18:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:20:17-77
-31-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:20:27-74
-32            </intent-filter>
-33        </activity>
-34    </application>
-35
-36</manifest>
+24-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:14:9-46
+25        <activity android:name="com.example.myappone.activity.devices_Activity" />
+25-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:15:9-62
+25-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:15:19-60
+26        <activity android:name="com.example.myappone.activity.Device_Sensor" />
+26-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:9-59
+26-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:16:19-57
+27        <activity android:name="com.example.myappone.activity.project_Activity" />
+27-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:17:9-63
+27-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:17:19-60
+28        <activity android:name="com.example.myappone.activity.MainActivity" >
+28-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:18:9-24:20
+28-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:18:19-56
+29            <intent-filter>
+29-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:20:17-69
+30-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:22:17-77
+32-->E:\Work\Android Project\android-nlecloud\app\src\main\AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

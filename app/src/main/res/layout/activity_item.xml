@@ -3,6 +3,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="#fff"
     android:visibility="visible">
 
     <!--传感器名字-->
@@ -18,7 +19,7 @@
             android:textStyle="bold"
             android:textSize="20sp"
             android:textColor="@color/teal_200"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="20dp"/>
     </LinearLayout>
     <!--传感器名字-->
 
@@ -36,6 +37,7 @@
             android:textSize="14sp"
             android:textStyle="bold"
             android:textColor="@color/teal_200"/>
+
         <TextView
             android:id="@+id/item_text"
             android:layout_width="wrap_content"

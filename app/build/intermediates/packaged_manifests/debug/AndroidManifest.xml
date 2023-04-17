@@ -22,9 +22,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.MyAppone" >
-        <activity android:name="com.example.myappone.Sensor_Activity" />
-        <activity android:name="com.example.myappone.project_Activity" />
-        <activity android:name="com.example.myappone.MainActivity" >
+        <activity android:name="com.example.myappone.activity.devices_Activity" />
+        <activity android:name="com.example.myappone.activity.Device_Sensor" />
+        <activity android:name="com.example.myappone.activity.project_Activity" />
+        <activity android:name="com.example.myappone.activity.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

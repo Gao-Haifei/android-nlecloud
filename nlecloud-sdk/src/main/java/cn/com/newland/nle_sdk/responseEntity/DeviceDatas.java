@@ -11,6 +11,14 @@ public class DeviceDatas {
         DeviceID = deviceID;
     }
 
+    public List<NewData> getDatas() {
+        return Datas;
+    }
+
+    public int getDeviceID() {
+        return DeviceID;
+    }
+
     public void setName(String name) {
         Name = name;
     }
